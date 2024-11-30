@@ -58,8 +58,8 @@ public class SwaggerConfig {
                                 "**Database:** `MongoDB`\n")
                         .version("1.0")
                         .contact(new Contact()
-                                .name("Diksha sharma")
-                                .email("deiskasharma81@gmail.com"))
+                                .name("Diksha")
+                                .email("Dikshasharma044555@gmail.com"))
                 )
 
                 .addSecurityItem(new SecurityRequirement().addList("Bearer Authentication"))
