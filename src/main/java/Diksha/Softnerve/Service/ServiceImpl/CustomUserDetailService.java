@@ -1,8 +1,8 @@
-package AshutoshRajput.Softnerve.Service.ServiceImpl;
+package Diksha.Softnerve.Service.ServiceImpl;
 
-import AshutoshRajput.Softnerve.Entity.Student;
-import AshutoshRajput.Softnerve.ExceptionHandling.ResourceNotFoundException;
-import AshutoshRajput.Softnerve.Repository.StudentRepository;
+import Diksha.Softnerve.Entity.Student;
+import Diksha.Softnerve.ExceptionHandling.ResourceNotFoundException;
+import Diksha.Softnerve.Repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

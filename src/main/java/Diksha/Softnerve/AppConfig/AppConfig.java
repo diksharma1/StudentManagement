@@ -1,7 +1,7 @@
-package AshutoshRajput.Softnerve.AppConfig;
+package Diksha.Softnerve.AppConfig;
 
-import AshutoshRajput.Softnerve.Mapper.StudentMapper;
-import AshutoshRajput.Softnerve.Service.ServiceImpl.StudentServiceImpl;
+import Diksha.Softnerve.Mapper.StudentMapper;
+import Diksha.Softnerve.Service.ServiceImpl.StudentServiceImpl;
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;

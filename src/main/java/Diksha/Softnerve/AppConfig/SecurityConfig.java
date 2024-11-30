@@ -1,10 +1,9 @@
-package AshutoshRajput.Softnerve.AppConfig;
+package Diksha.Softnerve.AppConfig;
 
-import AshutoshRajput.Softnerve.Security.JwtAuthFilter;
-import AshutoshRajput.Softnerve.Service.ServiceImpl.CustomUserDetailService;
+import Diksha.Softnerve.Security.JwtAuthFilter;
+import Diksha.Softnerve.Service.ServiceImpl.CustomUserDetailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.ProviderManager;

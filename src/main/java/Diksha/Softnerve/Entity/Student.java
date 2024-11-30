@@ -1,4 +1,4 @@
-package AshutoshRajput.Softnerve.Entity;
+package Diksha.Softnerve.Entity;
 
 import lombok.*;
 import org.springframework.data.annotation.Id;

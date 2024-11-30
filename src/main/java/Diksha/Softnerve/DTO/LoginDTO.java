@@ -1,4 +1,4 @@
-package AshutoshRajput.Softnerve.DTO;
+package Diksha.Softnerve.DTO;
 
 import lombok.*;
 

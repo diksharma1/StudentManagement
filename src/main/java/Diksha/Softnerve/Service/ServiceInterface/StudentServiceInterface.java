@@ -1,6 +1,6 @@
-package AshutoshRajput.Softnerve.Service.ServiceInterface;
+package Diksha.Softnerve.Service.ServiceInterface;
 
-import AshutoshRajput.Softnerve.DTO.StudentDTO;
+import Diksha.Softnerve.DTO.StudentDTO;
 import org.springframework.data.domain.Page;
 
 public interface StudentServiceInterface {

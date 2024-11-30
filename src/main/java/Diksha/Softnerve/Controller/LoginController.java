@@ -1,7 +1,7 @@
-package AshutoshRajput.Softnerve.Controller;
+package Diksha.Softnerve.Controller;
 
-import AshutoshRajput.Softnerve.DTO.LoginDTO;
-import AshutoshRajput.Softnerve.Security.JwtService;
+import Diksha.Softnerve.DTO.LoginDTO;
+import Diksha.Softnerve.Security.JwtService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;

@@ -1,7 +1,7 @@
-package AshutoshRajput.Softnerve.Mapper;
+package Diksha.Softnerve.Mapper;
 
-import AshutoshRajput.Softnerve.DTO.StudentDTO;
-import AshutoshRajput.Softnerve.Entity.Student;
+import Diksha.Softnerve.DTO.StudentDTO;
+import Diksha.Softnerve.Entity.Student;
 import org.modelmapper.ModelMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 

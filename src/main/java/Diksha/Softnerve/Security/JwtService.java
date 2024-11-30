@@ -1,4 +1,4 @@
-package AshutoshRajput.Softnerve.Security;
+package Diksha.Softnerve.Security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

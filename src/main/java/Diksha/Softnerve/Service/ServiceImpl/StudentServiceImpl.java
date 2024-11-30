@@ -1,12 +1,12 @@
-package AshutoshRajput.Softnerve.Service.ServiceImpl;
+package Diksha.Softnerve.Service.ServiceImpl;
 
-import AshutoshRajput.Softnerve.DTO.StudentDTO;
-import AshutoshRajput.Softnerve.Entity.Student;
-import AshutoshRajput.Softnerve.ExceptionHandling.ResourceAlreadyExistsException;
-import AshutoshRajput.Softnerve.ExceptionHandling.ResourceNotFoundException;
-import AshutoshRajput.Softnerve.Mapper.StudentMapper;
-import AshutoshRajput.Softnerve.Repository.StudentRepository;
-import AshutoshRajput.Softnerve.Service.ServiceInterface.StudentServiceInterface;
+import Diksha.Softnerve.DTO.StudentDTO;
+import Diksha.Softnerve.Entity.Student;
+import Diksha.Softnerve.ExceptionHandling.ResourceAlreadyExistsException;
+import Diksha.Softnerve.ExceptionHandling.ResourceNotFoundException;
+import Diksha.Softnerve.Mapper.StudentMapper;
+import Diksha.Softnerve.Repository.StudentRepository;
+import Diksha.Softnerve.Service.ServiceInterface.StudentServiceInterface;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

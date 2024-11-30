@@ -1,4 +1,4 @@
-package AshutoshRajput.Softnerve.ExceptionHandling;
+package Diksha.Softnerve.ExceptionHandling;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

@@ -1,4 +1,4 @@
-package AshutoshRajput.Softnerve.AppConfig;
+package Diksha.Softnerve.AppConfig;
 
 
 import io.swagger.v3.oas.models.OpenAPI;

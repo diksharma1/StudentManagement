@@ -1,6 +1,6 @@
-package AshutoshRajput.Softnerve.Service.ServiceImpl;
+package Diksha.Softnerve.Service.ServiceImpl;
 
-import AshutoshRajput.Softnerve.Entity.DbSequence;
+import Diksha.Softnerve.Entity.DbSequence;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoOperations;
 import org.springframework.data.mongodb.core.query.Criteria;

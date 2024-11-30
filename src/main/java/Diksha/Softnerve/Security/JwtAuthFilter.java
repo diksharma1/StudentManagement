@@ -1,6 +1,6 @@
-package AshutoshRajput.Softnerve.Security;
+package Diksha.Softnerve.Security;
 
-import AshutoshRajput.Softnerve.Service.ServiceImpl.CustomUserDetailService;
+import Diksha.Softnerve.Service.ServiceImpl.CustomUserDetailService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

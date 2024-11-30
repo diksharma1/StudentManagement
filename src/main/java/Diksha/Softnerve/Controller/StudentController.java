@@ -1,9 +1,9 @@
-package AshutoshRajput.Softnerve.Controller;
+package Diksha.Softnerve.Controller;
 
-import AshutoshRajput.Softnerve.DTO.StudentDTO;
-import AshutoshRajput.Softnerve.Entity.Student;
-import AshutoshRajput.Softnerve.Service.ServiceImpl.MongoDbAutoSequenceService;
-import AshutoshRajput.Softnerve.Service.ServiceImpl.StudentServiceImpl;
+import Diksha.Softnerve.DTO.StudentDTO;
+import Diksha.Softnerve.Entity.Student;
+import Diksha.Softnerve.Service.ServiceImpl.MongoDbAutoSequenceService;
+import Diksha.Softnerve.Service.ServiceImpl.StudentServiceImpl;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

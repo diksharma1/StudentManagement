@@ -1,6 +1,6 @@
-package AshutoshRajput.Softnerve.Repository;
+package Diksha.Softnerve.Repository;
 
-import AshutoshRajput.Softnerve.Entity.Student;
+import Diksha.Softnerve.Entity.Student;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.Optional;
